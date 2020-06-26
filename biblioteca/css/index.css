@@ -1,0 +1,18 @@
+.containerc{
+    display:flex;
+    padding: 15px;
+    justify-content: space-around;
+    align-items: center;
+}
+.align{
+    display: flex;
+    justify-content: space-around;
+
+}
+.align_cad{
+    display: flex;
+    align-items: center;
+}
+body{
+    background-color: #e5e5e5 !important;
+}
